@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "humaltelu",
+    "slug": "humaltelu",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
