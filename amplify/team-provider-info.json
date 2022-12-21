@@ -1,0 +1,24 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-humaltelu-dev-155527-authRole",
+      "UnauthRoleArn": "arn:aws:iam::032704882655:role/amplify-humaltelu-dev-155527-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::032704882655:role/amplify-humaltelu-dev-155527-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-humaltelu-dev-155527-deployment",
+      "UnauthRoleName": "amplify-humaltelu-dev-155527-unauthRole",
+      "StackName": "amplify-humaltelu-dev-155527",
+      "StackId": "arn:aws:cloudformation:eu-north-1:032704882655:stack/amplify-humaltelu-dev-155527/f4f76d00-806d-11ed-a6fb-06da11d69520",
+      "AmplifyAppId": "d295z6onda9qd"
+    },
+    "categories": {
+      "auth": {
+        "humalteluauth": {},
+        "userPoolGroups": {}
+      },
+      "api": {
+        "humaltelu": {}
+      }
+    }
+  }
+}
